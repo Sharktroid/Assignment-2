@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">Four in a row</string>
+    <string name="instructions">To win, you must get four pieces in a row, either horizontal, vertical, or diagonal. You lose if the other side gets four in a row.</string>
+    <string name="instructionsHeader">Instructions:</string>
+    <string name="nameSelection">Enter your name</string>
+    <string name="start">Start</string>
+    <string name="turnName">TextView</string>
+    <string name="reset">Reset</string>
+    <string name="textview">TextView</string>
+</resources>
